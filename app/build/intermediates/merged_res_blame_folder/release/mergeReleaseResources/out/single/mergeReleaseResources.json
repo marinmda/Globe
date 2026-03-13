@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.globe.app-release-24:/drawable-nodpi_moon.jpg.flat",
+        "source": "com.globe.app-main-25:/drawable-nodpi/moon.jpg"
+    },
+    {
+        "merged": "com.globe.app-release-24:/drawable-nodpi_earth_day.jpg.flat",
+        "source": "com.globe.app-main-25:/drawable-nodpi/earth_day.jpg"
+    },
+    {
+        "merged": "com.globe.app-release-24:/drawable-nodpi_earth_night.jpg.flat",
+        "source": "com.globe.app-main-25:/drawable-nodpi/earth_night.jpg"
+    }
+]

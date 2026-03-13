@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+drawable earth_day
+drawable earth_night
+drawable moon
+string app_name
+style Theme.Globe

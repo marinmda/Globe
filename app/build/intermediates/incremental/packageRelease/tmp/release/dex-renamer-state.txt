@@ -1,0 +1,4 @@
+#Fri Mar 13 20:53:45 EET 2026
+base.0=/home/daniel/AndroidStudioProjects/Globe/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
