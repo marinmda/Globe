@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/daniel/.gradle/daemon/8.9/com.globe.app-debug-24:/drawable-nodpi_earth_night.jpg.flat",
+        "source": "/home/daniel/.gradle/daemon/8.9/com.globe.app-main-26:/drawable-nodpi/earth_night.jpg"
+    },
+    {
+        "merged": "com.globe.app-debug-24:/drawable-nodpi_moon.jpg.flat",
+        "source": "com.globe.app-main-26:/drawable-nodpi/moon.jpg"
+    },
+    {
+        "merged": "/home/daniel/.gradle/daemon/8.9/com.globe.app-debug-24:/drawable-nodpi_earth_day.jpg.flat",
+        "source": "/home/daniel/.gradle/daemon/8.9/com.globe.app-main-26:/drawable-nodpi/earth_day.jpg"
+    }
+]
